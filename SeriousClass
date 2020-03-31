@@ -1,0 +1,6 @@
+public class SeriousClass {
+
+  public SeriousClass(){
+    System.out.println("This is a serious class. Don't mess around with it");
+  }
+}
