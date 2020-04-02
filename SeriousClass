@@ -1,7 +1,11 @@
 public class SeriousClass {
 
+  //public int logIn(String pass, String uname){
+	//  return 0;
+  //}
+  
   public int logIn(String pass, String uname){
-	  return 0;
+	  return 1;
   }
   
   public SeriousClass(){
