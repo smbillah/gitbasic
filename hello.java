@@ -4,7 +4,8 @@ public class hello{
 		//doing interesting stuffs here
 		int a = 10;
 		int b = 20;
-		a = a+ b;
+		a = a - b;
+		a = a * b
 	}
 	
 	public static void main(String[] args){
