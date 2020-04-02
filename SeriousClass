@@ -6,6 +6,7 @@ public class SeriousClass {
   
   public int logIn(String pass, String uname){
 	  return 100;
+
   }
   
   public SeriousClass(){
